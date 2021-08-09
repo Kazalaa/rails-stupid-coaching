@@ -1,0 +1,30 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+//  body {
+//    background: $gray; // Using this variable
+//  }
+ .coach_answer{
+   background-color: #FFFFE1;
+   border-left: 5px solid #DDDDDD;
+   padding-left: 10px;
+ }
+  .user_message{
+    border-left: 5px solid #DDDDDD;
+   padding-left: 10px;
+   background-color: rgba(255,255,255,0.8);
+}
+.bold_answer{
+  font-weight: bold;
+}
+.ask_button{
+  background-color: #3279B7;
+  color: white;
+  width: 50px;
+  height: 35px;
+}
+.input_question{
+  height: 30px;
+  width: 500px;
+}
